@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>zed_config_export</name>
+  <version>0.1.0</version>
+  <description>Export Kalibr calibration results to ZED camera format</description>
+  <maintainer email="kenneth.kong@assetcool.com">Kenneth Kong</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>catkin_simple</build_depend>
+  <build_depend>roscpp</build_depend>
+  
+  <run_depend>catkin_simple</run_depend>
+  <run_depend>roscpp</run_depend>
+</package>
